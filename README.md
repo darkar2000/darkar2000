@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1>Bienvenido a mi Repositorio</h1>
+    <h1 style="color: blueviolet;">Bienvenido a mi Repositorio</h1>
     <p style="color: blueviolet;">
       Hola!
     </p>
