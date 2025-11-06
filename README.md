@@ -26,6 +26,6 @@ Here are some ideas to get you started:
     <p>
       Hola!
     </p>
-     <img src="https://cdn.pixabay.com/photo/2021/04/07/13/09/headphones-6159058_960_720.jpg" alt="Musica"  height="80px" width="70px">
+     <img src="https://cdn.pixabay.com/photo/2021/04/07/13/09/headphones-6159058_960_720.jpg" alt="Musica"  height="100px" width="90px">
   </body>
 </html>
