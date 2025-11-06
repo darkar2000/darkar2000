@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   </head>
   <body>
     <h1>Bienvenido a mi Repositorio</h1>
-    <p style="color: red;">
+    <p style="color: blueviolet;">
       Hola!
     </p>
      <img src="https://cdn.pixabay.com/photo/2021/04/07/13/09/headphones-6159058_960_720.jpg" alt="Musica"  height="100px" width="90px">
