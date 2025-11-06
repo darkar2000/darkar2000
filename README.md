@@ -17,8 +17,8 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1 style="color: blueviolet;">Bienvenido a mi Repositorio</h1>
-    <p style="color: blueviolet;">
+    <h1>Bienvenido a mi Repositorio</h1>
+    <p>
       Hola!
     </p>
      <img src="https://cdn.pixabay.com/photo/2021/04/07/13/09/headphones-6159058_960_720.jpg" alt="Musica"  height="100px" width="90px">
