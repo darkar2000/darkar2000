@@ -21,9 +21,9 @@ Here are some ideas to get you started:
     <p style="font-size: 18px; color: rgb(15, 136, 25);">
         Nombre: Luis Enrique Colocho<br>
         Edad: 23 años<br>
-        Profesión: Ingeniero en Desarrollo de Software<br>
-        Intereses: Desarrollo web, inteligencia artificial, videojuegos<br>
-        Hobbies: Leer, viajar, jugar videojuegos, aprender nuevas tecnologías
+        Profesión: Ingeniero en Desarrollo de Software 💻<br>
+        Intereses: Desarrollo web, inteligencia artificial, videojuegos 🎶<br>
+        Hobbies: Leer, viajar, jugar videojuegos, aprender nuevas tecnologías 🎮
     </p>
     <img src="https://cdn.pixabay.com/photo/2021/04/07/13/09/headphones-6159058_960_720.jpg" alt="Musica"  height="100px" width="90px">
     <img src="https://cdn.pixabay.com/photo/2022/07/14/04/58/video-game-7320444_1280.jpg" alt="juegos" height="100px" width="90px">
