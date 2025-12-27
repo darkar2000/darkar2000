@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <body style="font-family: Arial, Helvetica, sans-serif; background-color: rgb(0, 0, 0);">
     <h1 style="color: rgb(15, 136, 45);">Bienvenido a mi repositorio</h1>
     <ol style="font-size: 18px; color: rgb(15, 136, 25);">
-        <ul>Nombre: Luis Enrique Colocho</ul>
+        <ul>Nombre: Luis Enrique Colocho👤 </ul>
         <ul>Edad: 23 años</ul>
-        <ul>Profesión: Ingeniero en Desarrollo de Software</ul>
-        <ul>Intereses: Desarrollo web, inteligencia artificial, videojuegos</ul>
-        <ul>Hobbies: Leer, viajar, jugar videojuegos, aprender nuevas tecnologías</ul>
+        <ul>Profesión: Ingeniero en Desarrollo de Software💻</ul>
+        <ul>Intereses: Desarrollo web, inteligencia artificial, videojuegos🎮</ul>
+        <ul>Hobbies: Leer, viajar, jugar videojuegos, aprender nuevas tecnologías🎶</ul>
     </ol>
     <img src="https://cdn.pixabay.com/photo/2021/04/07/13/09/headphones-6159058_960_720.jpg" alt="Musica"  height="100px" width="90px">
     <img src="https://cdn.pixabay.com/photo/2022/07/14/04/58/video-game-7320444_1280.jpg" alt="juegos" height="100px" width="90px">
